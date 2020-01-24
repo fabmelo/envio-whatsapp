@@ -1,0 +1,24 @@
+{
+  "name": "envio-whatsapp",
+  "version": "1.0.0",
+  "description": "Aplicação de envio de mensagens pelo whatsapp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/fabmelo/envio-whatsapp",
+  "keywords": [
+    "Electron",
+    "NodeJs",
+    "Express",
+    "WhatsApp"
+  ],
+  "author": "Fabiano Melo Moreira",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^7.1.10"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
